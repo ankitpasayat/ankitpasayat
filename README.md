@@ -7,7 +7,7 @@
 <h3>Technology Stack</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express-FFD700?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-EFD81C?style=flat-square&logo=express&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
