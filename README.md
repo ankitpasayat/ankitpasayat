@@ -30,6 +30,6 @@
 
 ## About
 
-- 💼 Currently working @ Infosys as an SDE but actively looking for new opportunities.
+- 💼 Currently working at Infosys but actively looking for new opportunities.
 - 💻 I focus on full stack web development.
 - 🚀 I have a keen interest in core CS fundamentals, revising data structures and algorithms.
