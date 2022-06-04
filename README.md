@@ -30,6 +30,6 @@
 
 ## About
 
-- 💼 Currently working at Infosys Limited as a software developer.
+- 💼 Currently working at Infosys but actively looking for new opportunities.
 - 💻 I focus on full stack web development.
-- 🚀 I have a keen interest in cloud architecture, also studying for my AWS (SAA-C02) certification.
+- 🚀 I have a keen interest in core CS fundamentals, revising data structures and algorithms.
