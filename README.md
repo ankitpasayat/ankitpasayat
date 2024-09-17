@@ -23,5 +23,5 @@
 ## About
 
 - 💼 Currently working at Cisco but actively looking for new opportunities.
-- 💻 I focus on full stack web development.
-- 🚀 I have a keen interest in core CS fundamentals, revising data structures and algorithms.
+- 💻 I focus on full-stack web development.
+- 🚀 I am keenly interested in core CS fundamentals, revising data structures and algorithms.
