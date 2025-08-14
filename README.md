@@ -22,6 +22,6 @@
 
 ## About
 
-- 💼 Currently working at Cisco but actively looking for new opportunities.
+- 💼 Currently working at Shell but actively looking for new opportunities.
 - 💻 I focus on full-stack web development.
 - 🚀 I am keenly interested in core CS fundamentals, revising data structures and algorithms.
